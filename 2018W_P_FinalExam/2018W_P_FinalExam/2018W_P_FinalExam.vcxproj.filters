@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="原始程式檔">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="標頭檔">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="資源檔">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="res\My2018W_P_FinalExam.rc2">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="res\2018W_P_FinalExamDoc.ico">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="res\2018W_P_FinalExam.ico">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="res\Toolbar.bmp">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="res\bitmap1.bmp">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="res\bitmap18.bmp">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="res\bitmap17.bmp">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="res\bitmap16.bmp">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="res\bitmap15.bmp">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="res\bitmap2.bmp">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="res\bu4.bmp">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="res\bitmap19.bmp">
+      <Filter>資源檔</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="2018W_P_FinalExam.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="2018W_P_FinalExamDoc.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="2018W_P_FinalExamView.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Base_Function.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseStruct.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Introduce.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Definition.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="EasyPlayer.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="BS\BkDialog.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="BS\BkDialogST.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="VedioDialog.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="FullMovie.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="MySliderControl.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="BS\BCMenu.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="2018W_P_FinalExam.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="2018W_P_FinalExamDoc.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="2018W_P_FinalExamView.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="Base_Function.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="Splash.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="Introduce.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="EasyPlayer.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="BS\BkDialogST.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="BS\BtnST.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="VedioDialog.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="FullMovie.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="MySliderControl.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="BS\BCMenu.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="2018W_P_FinalExam.rc">
+      <Filter>資源檔</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
